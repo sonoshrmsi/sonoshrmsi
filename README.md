@@ -1,7 +1,7 @@
 ### Hi there, Here I am 👋
 
 - 🔭 I’m currently working on ... Machine Learning at Sogeti NL
-- 👯 I’m looking to collaborate on ... Data Science & Web Developement
+- 👯 I’m looking to collaborate on ... Data Science & Machine Learning Projects
 - 🤔 I’m looking for help with ... Nothing Right Now...
 - 💬 Ask me about ... Python Libraries for Machine Learning
 - 📫 How to reach me: ... [s.masoumi@student.han.nl, shahryar.masoumi@sogeti.com]
