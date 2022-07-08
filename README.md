@@ -1,7 +1,6 @@
 ### Hi there, Here I am 👋
 
 - 🔭 I’m currently working on ... Machine Learning at Sogeti NL
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript and React JS
 - 👯 I’m looking to collaborate on ... Data Science & Web Developement
 - 🤔 I’m looking for help with ... Nothing Right Now...
 - 💬 Ask me about ... Python Libraries for Machine Learning
