@@ -1,6 +1,6 @@
 ### Hi there, Here I am 👋
 
-- 🔭 I’m a Data Scientist and Ddeveloper at Sogeti
+- 🔭 I’m a Data Scientist and Developer at Sogeti
 - 🤔 I’m looking for help with ... Nothing Right Now...
 - 💬 Ask me about Python Libraries // FastAPI // Kivy // CI/CD // or maybe ReactJS...
 - 📫 How to reach me: [shahryar.masoumi1370@gmail.com]
